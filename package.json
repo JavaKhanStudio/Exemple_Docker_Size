@@ -1,0 +1,9 @@
+{
+    "name": "minimal-node-example",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "build": "mkdir -p dist && cp server.js dist/server.js"
+    },
+    "dependencies": {}
+}
